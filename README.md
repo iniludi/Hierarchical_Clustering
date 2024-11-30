@@ -17,12 +17,11 @@ The results are as follow:
 
 ### 1. Hierarchical (Agglomerative) Clustering with PCA
 <img src="https://github.com/user-attachments/assets/79c2a936-0d6d-4902-b345-d6b09419eae3" alt="dendrogram_ac_pca" width=50% height=50%/>
-![clusters_ac_pca](https://github.com/user-attachments/assets/7055e851-6721-4287-aa2e-e6df50d80cb3)
+<img src="https://github.com/user-attachments/assets/7055e851-6721-4287-aa2e-e6df50d80cb3" alt="clusters_ac_pca" width=50% height=50%/>
 
-
-### 2. 
-![dendrogram_ac_tsne](https://github.com/user-attachments/assets/7c50a55f-72c3-4802-be4e-25e099eefb59)
-![clusters_ac_tsne](https://github.com/user-attachments/assets/f53eef16-e2c5-431a-adc0-1ed29da30e53)
+### 2. Hierarchical (Agglomerative) Clustering with t-SNE
+<img src="https://github.com/user-attachments/assets/7c50a55f-72c3-4802-be4e-25e099eefb59" alt="dendrogram_ac_tsne" width=50% height=50%/>
+<img src="https://github.com/user-attachments/assets/f53eef16-e2c5-431a-adc0-1ed29da30e53" alt="clusters_ac_tsne" width=50% height=50%/>
 
 
 
