@@ -8,8 +8,7 @@ Understanding student engagement and performance can enhance learning outcomes. 
 
 ## Dataset:
 
-The data used in this study was collected from a cohort of students enrolled in an introductory programming course CS1. The dataset have a rich metadata consist of submission, compilation, edit, and keystroke events. 
-Reference: Edwards, J. (2022). 2021 CS1 Keystroke Data. Harvard Dataverse. Version V6. Available at: https://doi.org/10.7910/DVN/BVOF7S .
+The data used in this study was collected from a cohort of students enrolled in an introductory programming course CS1. The dataset have a rich metadata consist of submission, compilation, edit, and keystroke events (Edwards, J. (2022). 2021 CS1 Keystroke Data. Harvard Dataverse. Version V6. Available at: https://doi.org/10.7910/DVN/BVOF7S).
 
 
 
