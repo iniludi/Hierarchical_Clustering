@@ -1,1 +1,4 @@
-The keystrokes file is too big, so I compress it into a zip file.
+There are three files that I used for clustering:
+1. keystrokes.csv (The file is too big, so I compress it into a zip file)
+2. students.csv
+3. due.csv
