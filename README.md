@@ -10,6 +10,12 @@ Understanding student engagement and performance can enhance learning outcomes. 
 
 The data used in this study was collected from a cohort of students enrolled in an introductory programming course CS1. The dataset have a rich metadata consist of submission, compilation, edit, and keystroke events (Edwards, J. (2022). 2021 CS1 Keystroke Data. Harvard Dataverse. Version V6. Available at: https://doi.org/10.7910/DVN/BVOF7S).
 
+## Code Setup and Requirements
+Install all the required packages using the following command:
+```
+    $ pip install -r requirements.txt
+```
+
 ## Files:
 
 - `dataset/`: Directory containing the programming keystroke dataset from the CS1 course.
