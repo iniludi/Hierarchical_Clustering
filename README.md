@@ -23,6 +23,13 @@ The results are as follow:
 <img src="https://github.com/user-attachments/assets/7c50a55f-72c3-4802-be4e-25e099eefb59" alt="dendrogram_ac_tsne" width=50% height=50%/>
 <img src="https://github.com/user-attachments/assets/f53eef16-e2c5-431a-adc0-1ed29da30e53" alt="clusters_ac_tsne" width=50% height=50%/>
 
+### 3. K-Means Clustering with PCA
+<img src="https://github.com/user-attachments/assets/d0d6e103-2b82-4f87-a424-26b795b66049" alt="clusters_kmeans_pca" width=50% height=50%/>
+
+### 4. K-Means Clustering with t-SNE
+<img src="https://github.com/user-attachments/assets/0b1ccd8c-85ac-44be-b4f3-8a971c70da0b" alt="clusters_kmeans_tsne" width=50% height=50%/>
+
+
 
 
 
