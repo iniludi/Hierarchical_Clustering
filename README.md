@@ -14,7 +14,16 @@ The data used in this study was collected from a cohort of students enrolled in 
 
 I used four different methods for clustering: Hierarchical (Agglomerative) Clustering with PCA, Hierarchical (Agglomerative) Clustering with t-SNE, K-Means Clustering with PCA, and K-Means Clustering with t-SNE.
 The results are as follow:
+
+### 1. Hierarchical (Agglomerative) Clustering with PCA
+![dendrogram_ac_pca](https://github.com/user-attachments/assets/79c2a936-0d6d-4902-b345-d6b09419eae3)
+![clusters_ac_pca](https://github.com/user-attachments/assets/7055e851-6721-4287-aa2e-e6df50d80cb3)
+
+
+### 2. 
 ![dendrogram_ac_tsne](https://github.com/user-attachments/assets/7c50a55f-72c3-4802-be4e-25e099eefb59)
+![clusters_ac_tsne](https://github.com/user-attachments/assets/f53eef16-e2c5-431a-adc0-1ed29da30e53)
+
 
 
 
