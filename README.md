@@ -16,8 +16,7 @@ I used four different methods for clustering: Hierarchical (Agglomerative) Clust
 The results are as follow:
 
 ### 1. Hierarchical (Agglomerative) Clustering with PCA
-<img src="https://github.com/user-attachments/assets/79c2a936-0d6d-4902-b345-d6b09419eae3" alt="dendrogram_ac_pca" width="300" height="200"/>
-![dendrogram_ac_pca](https://github.com/user-attachments/assets/79c2a936-0d6d-4902-b345-d6b09419eae3)
+<img src="https://github.com/user-attachments/assets/79c2a936-0d6d-4902-b345-d6b09419eae3" alt="dendrogram_ac_pca" width=50% height=50%/>
 ![clusters_ac_pca](https://github.com/user-attachments/assets/7055e851-6721-4287-aa2e-e6df50d80cb3)
 
 
