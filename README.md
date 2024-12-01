@@ -19,7 +19,7 @@ Install all the required packages using the following command:
 ## Files:
 
 - `dataset/`: Directory containing the programming keystroke dataset from the CS1 course.
-- `features_results/`: Directory containing the features extracted from the keystrokes data. I choose 12 features for clustering: error count, number of compilation, mean time difference be-
+- `Features_Results/`: Directory containing the features extracted from the keystrokes data. I choose 12 features for clustering: error count, number of compilation, mean time difference be-
 tween two consecutive compilations, number of short, medium, and long pauses during, number of semicolon, number of ”print”, ”while”, ”for”, and ”space” keys, and total number of keystrokes frequency for each student per assignment.
 - `hierarchical_clustering.ipynb`: Script for extracting the features and implementing clustering methiods.
 
